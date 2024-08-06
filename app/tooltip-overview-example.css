@@ -1,0 +1,14 @@
+/** No CSS for this example */
+.mat-tooltip {
+  font-size: 15px;
+  background: green;
+}
+
+.example-tooltip-red {
+  background: #ff0000;
+}
+.mat-tooltip {
+  background-color: #ff4081;
+  color: white;
+  font-size: 14px;
+}
